@@ -1,7 +1,9 @@
 # MathTutor / TutorMat - Web and Mobile App
 
 <div align="center">
-  ![Project Logo](assets/img/logo-math.jpg)
+
+<img src="assets/img/logo-math.jpg" width="200" height="200" />
+<br><br>
 
 [![Build Status](https://img.shields.io/badge/status-In%20Development-yellow)](https://github.com/javi-dev-79/MathTutor-/actions)
 
